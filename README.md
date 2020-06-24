@@ -1,3 +1,3 @@
 # Belajar-Flutter
 
-Belajar Membuat Aplikas Flutter untuk pemula Dicoding
+Belajar Membuat Aplikasi Flutter untuk pemula Dicoding
