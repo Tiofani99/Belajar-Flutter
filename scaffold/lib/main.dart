@@ -21,6 +21,11 @@ class FirstScreen extends StatelessWidget{
     return Scaffold(
       appBar: AppBar(
         title: Text('First Screen'),
+        actions: <Widget>[
+          IconButton(
+            icon: Icon(Icons.search,color: Colors.white,),
+          )
+        ],
       ),
     );
   }
