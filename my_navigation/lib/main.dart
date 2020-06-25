@@ -49,6 +49,9 @@ class SecondScreen extends StatelessWidget {
       body: Center(
         child: RaisedButton(
           child: Text('Kembali'),
+          onPressed: (){
+           Navigator.pop(context);
+          },
         ),
       ),
     );
