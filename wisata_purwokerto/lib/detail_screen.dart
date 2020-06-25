@@ -17,7 +17,7 @@ class DetailScreen extends StatelessWidget {
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 30.0,
-                      fontWeight: FontWeight.bold,
+                      fontFamily: 'ProductSans',
                     ),
                   )),
               Container(
@@ -31,14 +31,20 @@ class DetailScreen extends StatelessWidget {
                         SizedBox(
                           height: 8.0,
                         ),
-                        Text('Open Everyday'),
+                        Text(
+                          'Open Everyday',
+                          style: informationTextStyle,
+                        ),
                       ],
                     ),
                     Column(
                       children: <Widget>[
                         Icon(Icons.access_time),
                         SizedBox(height: 8.0),
-                        Text('09.00 - 20.00'),
+                        Text(
+                          '09.00 - 20.00',
+                          style: informationTextStyle,
+                        ),
                       ],
                     ),
                     Column(
@@ -47,7 +53,10 @@ class DetailScreen extends StatelessWidget {
                         SizedBox(
                           height: 8.0,
                         ),
-                        Text('Rp 17.000')
+                        Text(
+                          'Rp 17.000',
+                          style: informationTextStyle,
+                        )
                       ],
                     ),
                   ],
@@ -88,4 +97,8 @@ class DetailScreen extends StatelessWidget {
           ),
         ));
   }
+
+  var informationTextStyle = TextStyle(
+    fontFamily: 'AvenirNext',
+  );
 }
