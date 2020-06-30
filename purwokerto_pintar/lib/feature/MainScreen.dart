@@ -74,7 +74,7 @@ var categoryList = [
   id: 1,
     name: 'Pariwisata',
     image: 'images/travel.jpg',
-    postCount: 5,
+    postCount: 10,
   ),
   Category(
     id: 2,
