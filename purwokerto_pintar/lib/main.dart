@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:purwokertopintar/feature/MainScreen.dart';
+import 'file:///D:/Belajar%20Flutter/purwokerto_pintar/lib/feature/main/MainScreen.dart';
 import 'package:purwokertopintar/constants.dart';
 
 void main() => runApp(MyApp());

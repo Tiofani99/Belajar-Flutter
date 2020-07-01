@@ -1,9 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:purwokertopintar/constants.dart';
-import 'package:purwokertopintar/feature/components/body.dart';
 import 'package:purwokertopintar/model/Category.dart';
-import 'package:purwokertopintar/model/lokawisata.dart';
+import 'package:purwokertopintar/feature/catalogue/components/body.dart';
 
 class CatalogueScreen extends StatelessWidget {
   final Category category;

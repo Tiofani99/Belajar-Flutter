@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:purwokertopintar/model/Category.dart';
-import 'CatalogueScreen.dart';
+import '../catalogue/CatalogueScreen.dart';
 
 class MainScreen extends StatelessWidget{
   @override

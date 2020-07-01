@@ -37,112 +37,101 @@ class Lokawisata{
         "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
 
     lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
+        name: "Caping",
         location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
+        "Dusun II, Kebumen, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
         description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
+        "Caping Park merupakan gabungan tempat wisata selfi yang menarik dan wisata ramah anak. Didalam Caping Park sendiri terdapat jembatan kaca, taman bunga, jembatan anjasmara sampai dengan bukit rejuna yang keren banget untuk jadi spot selfie. Selain ada spot selfie, di Caping Park juga bisa main bareng hewan mulai dari kelinci, kambing dan ikan.",
         openDays: "Setiap hari",
         openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
+        ticketPrice: "Rp 20.000",
         imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
+        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_caping.png?alt=media&token=6011465b-16ec-46f5-8a50-cd01141cbd11"));
 
     lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
+        name:"Kebun Raya",
         location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
+        "Jl. Pancurantujuh - Wanawisata Baturraden, Purwokerto,Baturraden,Banyumas,Jawa Tengah,53151.",
         description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
+        "Kebun Raya merupakan area konservasi beragam jenis tanaman.Total tidak kurang dari 3000 specimen tanaman bisa dilihat di sini. Dengan total luas area 140 Ha berada di kawasan wisata hutan pinus Perhutani yang teduh dan sejuk. Kebun raya ini sangat cocok sebagai tempat rekreasi keluarga.",
         openDays: "Setiap hari",
         openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
+        ticketPrice: "Rp 20.000",
         imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
+        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_kebunraya.jpg?alt=media&token=32b8ee0f-414c-4931-b264-6ab0afddffa0"));
 
     lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
+        name: "Limpakuwus",
         location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
+        "Dusun III, Limpakuwus, Kec. Sumbang, Kabupaten Banyumas, Jawa Tengah 53183.",
         description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
+        "Limpakuwus merupakan sebuah desa di kaki gunung slamet yang tidak jauh dari pusat kota Purwokerto. Desa yang menyimpan sebuah tempat indah berupa Hutan pinus yang sangat terjaga dan terawat ini menjadi tempat yang wajib banget kamu kunjungi ketika berada di Purwokerto. Di tempat ini kamu akan di suguhkan dengan pohon pinus yang rindang-rindang serta hamparan bunga yang mekar nan indah yang ada di sekitar hutan ini.",
         openDays: "Setiap hari",
         openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
+        ticketPrice: "Rp 13.000",
         imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
+        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_limpakuwus.jpg?alt=media&token=20c70401-0a24-4de7-991b-4463d6a18d43"));
 
     lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
+        name:  "The Forest",
         location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
+        "Jalan Baturaden KM 7 Rempoah, Baturraden, Purwokerto, Banyumas Jawa Tengah.",
         description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
+        "The Forest hampir seperti The Village. Akan tetapi, di sini, Anda cukup membayar tiket masuk saja dan untuk menikmati wahana, semuanya Gratis. Fasilitas yang diberikan sudah termasuk lengkap dengan berbagai spot yang instagramable sekali. Anda juga bisa beristirahat di beberapa tempat bersantai. Lokasi ini sangat cocok bagi keluarga maupun sekedar bersantai ria dengan teman-teman Anda di siang hari.",
         openDays: "Setiap hari",
         openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
+        ticketPrice: "Rp 15.000",
         imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
+        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_theforest.jpg?alt=media&token=9132543f-2b89-4b73-982c-be2d26bdef8a"));
 
     lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
+        name: "Bukit Watu Meja",
         location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
+        "Jl. Raya Patikraja - Kebasen, Tumiyang Kidul, Tumiyang, Kabupaten Banyumas, Jawa Tengah, 53172.",
         description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
+        "Watu Meja merupakan sebuah bukit yang disini anda dapat menikmati keindahan panorama alam dari atas bukit. Sebelum itu, anda harus mendaki bukit selama kurang lebih 20 menit dengan berjalan kaki. Pada saat awal pendakian anda akan menjumpai pohon bamboo, dan selanjutnya anda akan melewati kawasan yang dikelilingi oleh hutan pinus yang menjulang. Kemudian menikmati pemandangan sungai serayu yang berlika-liku ditemani dengan angin diatas bukit yang cukup kencang.",
         openDays: "Setiap hari",
         openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
+        ticketPrice: "Rp 7.000",
         imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
+        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_watumeja.jpg?alt=media&token=b01546b7-8064-4237-92d4-5ef3c1e5824f"));
 
     lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
+        name: "The Village",
         location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
+        "Jalan Raya Baturaden KM.07 Rempoah Dusun I,Baturraden,Banyumas,Jawa Tengah,Indonesia,53151.",
         description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
+        "The Village merupakan sebuah destinasi wisata yang ada di Purwokerto. Di tempat ini kamu selain akan di suguhkan dengan design bangunan yang mewah nan megah kamu juga dapat menikmati makanan khas purwokerto yang ada di tempat ini.",
         openDays: "Setiap hari",
         openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
+        ticketPrice: "Rp 23.000",
         imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
+        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_thevillage.jpg?alt=media&token=e969c4ad-cd21-42ba-adb4-d8a97314e260",));
 
     lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
+        name: "Curug Telu",
         location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
+        "Sawah & Hutan, Karangsalam, Baturraden, Kabupaten Banyumas, Jawa Tengah, 53151.",
         description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
+        "Curug Telu artinya Air Terjun Tiga, dan memang di lokasi curug telu secara kasat mata terlihat ada 3 air terjun. Menuju ke tempat wisata tersebut, dapat melalui 2 jalan. Yaitu melewati Kotayasa dan Baturaden arah ke Telaga sunyi.",
         openDays: "Setiap hari",
         openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
+        ticketPrice: "Rp 5.000",
         imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
+        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_curugtelu.jpg?alt=media&token=4c68b4bb-e58d-4a19-bcd3-9f9a5f8df7be"));
 
     lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
+        name: "Curug Bayan",
         location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
+        "Dusun II Ketenger, Ketenger, Baturraden, Kabupaten Banyumas, Jawa Tengah.",
         description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
+        "Curug Bayan merupakan air terjun yang berada di tengah perkebunan dan hutan sehingga menyuguhkan pemandangan alam yang masih sangat asri dan udara yang sejuk. Curug ini memiliki ketinggian 7 meter dengan kolam alami yang memiliki luas sekitar 200 hingga 300 meter persegi dan kedalaman 2 hingga 5 meter. Dan para pengunjung juga dapat berenang atau mandi di kolam ini.",
         openDays: "Setiap hari",
         openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
+        ticketPrice: "Rp 3.000",
         imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
+        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_curugbayan.jpg?alt=media&token=32d9e599-58cf-41d0-bce0-7001062df381"));
 
-    lstOfCities.add(new Lokawisata(
-        name: "Baturaden",
-        location:
-        "Lokawisata, Dusun I Karangmangu, Karangmangu, Kec.Baturaden, Kabupaten Banyumas, Jawa Tengah, 53151.",
-        description:
-        "Baturaden merupakan destinasi wisata yang cocok dikunjungi bersama keluarga, karena di dalamnya terdapat berbagai fasilitas hiburan yang dapat dinikmati anak-anak hingga dewasa. Lokasinya yang berada di kaki Gunung Slamet membuat hawa di Lokawisata Baturaden terasa sejuk.",
-        openDays: "Setiap hari",
-        openTime: "08.00 - 17.00",
-        ticketPrice: "Rp 14.000",
-        imageAsset:
-        "https://firebasestorage.googleapis.com/v0/b/jalan-yuk.appspot.com/o/g_baturaden.jpg?alt=media&token=abfb57c8-5935-41d5-8bef-0fbf04a55714"));
 
 
 
