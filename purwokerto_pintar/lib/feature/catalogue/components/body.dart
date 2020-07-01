@@ -6,7 +6,7 @@ import 'package:purwokertopintar/model/lokawisata.dart';
 import 'MyGridView.dart';
 
 class Body extends StatelessWidget {
-  final List<Lokawisata> _allCities = Lokawisata.allCities();
+  final List<Lokawisata> _list = Lokawisata.allCities();
 
   @override
   Widget build(BuildContext context) {
@@ -16,14 +16,13 @@ class Body extends StatelessWidget {
         children: <Widget>[
           SearchBox(onChanged: (value) {}),
           SizedBox(height: kDefaultPadding / 2),
-          Expanded(
-              child: getHomePageBody(context))
+          Expanded(child: getHomePageBody(context))
         ],
       ),
     );
   }
 
   getHomePageBody(BuildContext context) {
-    return new MyGridView(allCities: _allCities);
+    return new MyGridView(listLokawisata: _list);
   }
 }

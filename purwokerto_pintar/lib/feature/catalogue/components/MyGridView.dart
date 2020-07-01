@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:purwokertopintar/constants.dart';
+import 'package:purwokertopintar/feature/detail/DetailLokawisataScreen.dart';
 import 'package:purwokertopintar/model/lokawisata.dart';
 
 class MyGridView extends StatelessWidget {
-  final List<Lokawisata> allCities;
+  final List<Lokawisata> listLokawisata;
 
-  MyGridView({Key key, this.allCities}) : super(key: key);
+  MyGridView({Key key, this.listLokawisata}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -21,8 +22,8 @@ class MyGridView extends StatelessWidget {
 
   _getGridViewItems(BuildContext context) {
     List<Widget> allWidgets = new List<Widget>();
-    for (int i = 0; i < allCities.length; i++) {
-      var widget = _gridItemLokawisata(context, allCities[i]);
+    for (int i = 0; i < listLokawisata.length; i++) {
+      var widget = _gridItemLokawisata(context, listLokawisata[i]);
       allWidgets.add(widget);
     }
     return allWidgets;
@@ -48,7 +49,9 @@ class MyGridView extends StatelessWidget {
           color: Colors.transparent,
           child: InkWell(
             onTap: () {
-              _showSnackBar(context, item);
+              Navigator.push(context, MaterialPageRoute(builder: (context) {
+                return DetailsScreen(lokawisata: item);
+              }));
             },
             child: Padding(
               padding: const EdgeInsets.all(20.0),
